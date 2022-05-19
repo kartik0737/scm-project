@@ -12,7 +12,7 @@ int arr[N] = {};
 cout << "Enter the elements of the array : ";
 for (i = 0; i < N; i++)
 {
-cin >> arr[i];
+cin >> arr[i]; 
 }
 int x;
 cout << "Enter the element you want to search : ";
